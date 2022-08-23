@@ -20,11 +20,6 @@ O seguinte link contém todos os 7 modelos obtidos com o uso de diferentes técn
 https://drive.google.com/drive/folders/1K8Vdt6gNBwhAez3-7K86YkD4r188lwL1?usp=sharing
 </p></pre>
 
-Pasta videoProcessing:
-<pre><p>    
-Contém todos os scripts utilizados para redimensionar e cortar os vídeos do dataset original, os armazenando em formato .mp4
-</p></pre>
-
 Pasta imageProcessing:
 <pre><p>
 Contém todos os scripts utilizados para realizar transformações de imagem nos dados provenientes de videoProcessing, e de seleção de<br />
